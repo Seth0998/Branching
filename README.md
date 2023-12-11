@@ -1,5 +1,5 @@
 # Branching
 This is to test to
--> Clone
--> Add Files using commmit
--> Adding changes in files 
+-> Clone <br>
+-> Add Files using commmit <br>
+-> Adding changes in files <br>
